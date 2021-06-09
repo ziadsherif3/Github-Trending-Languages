@@ -1,0 +1,24 @@
+{
+  "name": "backend-challenge",
+  "version": "1.0.0",
+  "description": "A REST microservice that lists the languages used by the 100 trending public repos on GitHub.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziadsherif3/Github-Trending-Languages.git"
+  },
+  "author": "Ziad Sherif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ziadsherif3/Github-Trending-Languages/issues"
+  },
+  "homepage": "https://github.com/ziadsherif3/Github-Trending-Languages#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1"
+  }
+}
