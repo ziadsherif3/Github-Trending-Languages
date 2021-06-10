@@ -6,8 +6,4 @@ router
     .route('/')
     .get(controllers.getLanguages);
 
-// router
-//     .route('/:language')
-//     .get(controllers.getLanguage)
-
 module.exports = router;
