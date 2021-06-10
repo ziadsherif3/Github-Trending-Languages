@@ -1,5 +1,5 @@
 {
-  "name": "backend-challenge",
+  "name": "github-trending-languages",
   "version": "1.0.0",
   "description": "A REST microservice that lists the languages used by the 100 trending public repos on GitHub.",
   "main": "app.js",
